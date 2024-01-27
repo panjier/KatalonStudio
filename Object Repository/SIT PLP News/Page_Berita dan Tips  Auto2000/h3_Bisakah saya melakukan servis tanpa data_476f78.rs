@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Bisakah saya melakukan servis tanpa data_476f78</name>
+   <tag></tag>
+   <elementGuidId>d12c81aa-2fc9-47aa-b04d-68acc44f8fbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='branch-faq']/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>b1e35a3e-a7d1-4db1-a9f0-d143c1cef9c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>question-0 </value>
+      <webElementGuid>5f84afff-8db9-4a4e-b619-c2aaf2eb0c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bisakah saya melakukan servis tanpa datang langsung ke bengkel Auto2000?</value>
+      <webElementGuid>abf9f016-38cf-4790-9760-20fce7aafccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-10 lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]/button[@class=&quot;block w-full border-b border-reliableBlack10&quot;]/details[@class=&quot;py-[18px] lg:px-5&quot;]/summary[@class=&quot;flex justify-start items-center -my-[18px] py-[13px] md:py-[18px] text-sm text-start font-medium text-reliableBlack cursor-pointer lg:text-base&quot;]/div[@class=&quot;w-full flex justify-between items-center&quot;]/div[@id=&quot;branch-faq&quot;]/h3[@class=&quot;question-0&quot;]</value>
+      <webElementGuid>3754f7a1-9924-446b-a8d7-a4e69d1994a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='branch-faq']/h3</value>
+      <webElementGuid>3ac4b44b-2a03-4892-bcd5-61f41d7caac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>d75f8216-9c0a-478d-be47-ec4fef79efdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Bisakah saya melakukan servis tanpa datang langsung ke bengkel Auto2000?' or . = 'Bisakah saya melakukan servis tanpa datang langsung ke bengkel Auto2000?')]</value>
+      <webElementGuid>882e81b8-0c43-447a-b445-939a089663af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

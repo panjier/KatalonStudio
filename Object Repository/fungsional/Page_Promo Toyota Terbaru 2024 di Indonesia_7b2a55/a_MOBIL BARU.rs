@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MOBIL BARU</name>
+   <tag></tag>
+   <elementGuidId>ead0c5e5-9aa9-4adb-ad5c-363ec6c36cd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>186b4600-80a1-4af2-9c65-22f39d663def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block text-xs uppercase text-reliableBlack whitespace-nowrap py-3.5 px-4 border-b-4 lg:text-base lg:py-4 lg:px-5 lg:border-b-[3px] hover:border-supportiveRed border-transparent</value>
+      <webElementGuid>a8aeab47-51ca-4bfd-a50c-a4cd2fabc3ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sit.auto2000.co.id/promosi/mobil-baru</value>
+      <webElementGuid>37b056b2-602c-40a1-812e-2915c3ca646c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MOBIL BARU</value>
+      <webElementGuid>7f46b66a-2189-4226-9fc7-595827b7dd7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[1]/section[@class=&quot;mt-4 mb-6 lg:my-8&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;border-b-2 border-reliableBlack10 sticky top-[60px] md:top-[150px] lg:top-[172px] z-20 bg-white lg:mb-6 flex items-center justify-start w-full bg-white overflow-x-auto no-scrollbar&quot;]/a[@class=&quot;inline-block text-xs uppercase text-reliableBlack whitespace-nowrap py-3.5 px-4 border-b-4 lg:text-base lg:py-4 lg:px-5 lg:border-b-[3px] hover:border-supportiveRed border-transparent&quot;]</value>
+      <webElementGuid>7216c68b-8ed7-46b0-961a-595051546c78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/div/a[2]</value>
+      <webElementGuid>be673423-6079-48f9-ba95-223729a8f64b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'MOBIL BARU')]</value>
+      <webElementGuid>b23ade62-eceb-49c3-b47e-26cbcc222bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sit.auto2000.co.id/promosi/mobil-baru')]</value>
+      <webElementGuid>cf4d3ceb-10df-4fb7-adb6-c1af6cc3a9d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/a[2]</value>
+      <webElementGuid>33d17b74-c169-4216-ade7-99f797af9009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sit.auto2000.co.id/promosi/mobil-baru' and (text() = 'MOBIL BARU' or . = 'MOBIL BARU')]</value>
+      <webElementGuid>83aa5bdc-4da1-4b69-bebe-f92a408e920c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

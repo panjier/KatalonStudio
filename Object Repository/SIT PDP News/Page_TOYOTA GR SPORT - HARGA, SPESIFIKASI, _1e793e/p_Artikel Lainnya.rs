@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Artikel Lainnya</name>
+   <tag></tag>
+   <elementGuidId>be45de5c-f8e5-4fc0-98bc-f38494b901fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[4]/section/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c2b39a5b-2b3f-4d89-b2e9-20e650c6584f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-bold uppercase text-reliableBlack lg:text-2xl</value>
+      <webElementGuid>27d539d6-81aa-4f3b-99ec-66a86a126659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Artikel Lainnya</value>
+      <webElementGuid>8618f065-3170-48f2-b72c-1dc2a6054ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/section[@class=&quot;my-4 lg:my-16&quot;]/div[@class=&quot;container lg:p-0&quot;]/div[@class=&quot;flex items-center justify-between mb-1 lg:mb-6&quot;]/p[@class=&quot;text-base font-bold uppercase text-reliableBlack lg:text-2xl&quot;]</value>
+      <webElementGuid>ddea1592-f489-4eca-b5e0-4cdfecf0bef3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[4]/section/div/div/p</value>
+      <webElementGuid>aa5ce32f-700a-463b-bbd7-0671e692febc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/section/div/div/p</value>
+      <webElementGuid>2199618a-6a82-4d53-aeff-c59884d63af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Artikel Lainnya' or . = 'Artikel Lainnya')]</value>
+      <webElementGuid>7434bee2-68d8-409f-991a-390e058b76cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

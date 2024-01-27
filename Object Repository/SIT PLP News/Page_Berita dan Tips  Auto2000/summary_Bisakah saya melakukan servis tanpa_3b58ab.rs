@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>summary_Bisakah saya melakukan servis tanpa_3b58ab</name>
+   <tag></tag>
+   <elementGuidId>08daf2c3-77e0-4e91-ad09-76af0a5e0670</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[3]/div/button/details/summary</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>summary</value>
+      <webElementGuid>2c1f9810-bffa-497d-a68d-3a43c463a99e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-start items-center -my-[18px] py-[13px] md:py-[18px] text-sm text-start font-medium text-reliableBlack cursor-pointer lg:text-base </value>
+      <webElementGuid>9bd8a0f1-e888-4572-84de-93086265a3a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bisakah saya melakukan servis tanpa datang langsung ke bengkel Auto2000? </value>
+      <webElementGuid>72ad739f-82dd-4524-9271-69109f442cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-10 lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]/button[@class=&quot;block w-full border-b border-reliableBlack10&quot;]/details[@class=&quot;py-[18px] lg:px-5&quot;]/summary[@class=&quot;flex justify-start items-center -my-[18px] py-[13px] md:py-[18px] text-sm text-start font-medium text-reliableBlack cursor-pointer lg:text-base&quot;]</value>
+      <webElementGuid>dbb6433a-f391-4e93-b236-b7b346f58f01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[3]/div/button/details/summary</value>
+      <webElementGuid>11a05210-8086-4f0f-bce2-a1628156217d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//summary</value>
+      <webElementGuid>f6c82a8c-e8e1-4cf8-9bc5-e0775a4aa0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//summary[(text() = 'Bisakah saya melakukan servis tanpa datang langsung ke bengkel Auto2000? ' or . = 'Bisakah saya melakukan servis tanpa datang langsung ke bengkel Auto2000? ')]</value>
+      <webElementGuid>eb348642-185e-4bae-96b5-10f160e7af84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

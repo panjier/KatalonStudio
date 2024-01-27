@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_w-17px h-17px border rounded-none bg-in_95bb4d</name>
+   <tag></tag>
+   <elementGuidId>aa26e3ad-4924-42d8-8ba7-a5c88185417b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[3]/div/div/div[2]/section/form/div[5]/label/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>63b3bc42-69ab-4483-84ab-b587e81fdb1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[17px] h-[17px] border rounded-none bg-inherit border-supportiveRed hover:bg-reliableBlack10 </value>
+      <webElementGuid>58cac0bb-d9d7-4031-a1f1-60eeff151f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:grid-cols-[2fr_1fr]&quot;]/div[@class=&quot;container hidden md:mt-5 lg:p-0 md:block&quot;]/section[@class=&quot;bg-reliableBlack5 p-5&quot;]/form[@class=&quot;bg-inherit&quot;]/div[@class=&quot;mb-[18px] lg:mb-5&quot;]/label[@class=&quot;flex gap-5 text-sm font-normal mt-5 items-center cursor-pointer&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;w-[17px] h-[17px] border rounded-none bg-inherit border-supportiveRed hover:bg-reliableBlack10&quot;]</value>
+      <webElementGuid>33735eb0-2b88-49cc-9f13-aa3ce2a4d06a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[3]/div/div/div[2]/section/form/div[5]/label/div/div</value>
+      <webElementGuid>1aab7a55-b5f0-4578-82c1-4a1cf99b2319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/div</value>
+      <webElementGuid>66c0f5f1-5d75-4a90-ae4b-6958cb3f02a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Masukkan Kode OTP</name>
+   <tag></tag>
+   <elementGuidId>a82a7721-6d0b-4517-9a82-b13a819cd943</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[3]/div/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1ab8911e-06e6-443b-9b2b-84a8622da9e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-start justify-between md-max-w:p-4 p-6 border-b border-reliableBlack20 </value>
+      <webElementGuid>88050444-ae54-40d2-a021-67af7df352af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masukkan Kode OTP</value>
+      <webElementGuid>6c0cd38c-beda-4128-af6e-66eb64d99c6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:grid-cols-[2fr_1fr]&quot;]/div[@class=&quot;container hidden md:mt-5 lg:p-0 md:block&quot;]/div[@class=&quot;opacity-100 duration-300 ease-in-out fixed w-[100vw] h-[100vh] z-[70] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-opacity-30 bg-black&quot;]/div[@class=&quot;false duration-300 ease-in-out flex flex-col absolute bg-white rounded top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2&quot;]/div[@class=&quot;flex items-start justify-between md-max-w:p-4 p-6 border-b border-reliableBlack20&quot;]</value>
+      <webElementGuid>1fbd461a-5ba5-4672-aa47-bb0c68e6bf5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[3]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>b6bba812-495d-42aa-8e9f-e40f91a5b1a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>163393a2-2e94-42fa-9a79-9d9f6b5561c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Masukkan Kode OTP' or . = 'Masukkan Kode OTP')]</value>
+      <webElementGuid>992600aa-2770-4e2f-a5a3-8e653c91f24e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

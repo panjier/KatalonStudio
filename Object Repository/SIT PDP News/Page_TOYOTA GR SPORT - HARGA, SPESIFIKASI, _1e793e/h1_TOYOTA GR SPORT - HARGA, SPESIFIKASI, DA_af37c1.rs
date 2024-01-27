@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_TOYOTA GR SPORT - HARGA, SPESIFIKASI, DA_af37c1</name>
+   <tag></tag>
+   <elementGuidId>1e6d9c16-42d4-4473-99d4-477a05ce8fbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/div/div/section[2]/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>efadc43d-32ea-4b3d-a27d-758f3919a9ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[14px] font-semibold md:font-bold text-reliableBlack leading-[20px] lg:leading-[48px] lg:text-[28px] pr-4 lg:pr-8</value>
+      <webElementGuid>509d725e-5664-4fc3-b648-71f7ead182d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TOYOTA GR SPORT - HARGA, SPESIFIKASI, DAN PROMO TERBARU 2022 -DUPLIKAT 1</value>
+      <webElementGuid>536619b1-6129-400b-aa25-18f431a9a316</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:grid-cols-[2fr_1fr]&quot;]/div[1]/section[@class=&quot;undefinedmy-[30px] mx-4 lg:mx-0 lg:mt-5&quot;]/div[1]/div[@class=&quot;flex justify-between items-center mb-5 md:mb-2&quot;]/div[1]/h1[@class=&quot;text-[14px] font-semibold md:font-bold text-reliableBlack leading-[20px] lg:leading-[48px] lg:text-[28px] pr-4 lg:pr-8&quot;]</value>
+      <webElementGuid>0e58b754-f1c3-4399-af4a-51dc25d1dcb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div/div/section[2]/div/div/div/h1</value>
+      <webElementGuid>db76083b-c8d0-4cfc-b9c8-cc14f3d9f5b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>dfe19bc6-f16e-415c-8bb2-8f7eaa839e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'TOYOTA GR SPORT - HARGA, SPESIFIKASI, DAN PROMO TERBARU 2022 -DUPLIKAT 1' or . = 'TOYOTA GR SPORT - HARGA, SPESIFIKASI, DAN PROMO TERBARU 2022 -DUPLIKAT 1')]</value>
+      <webElementGuid>08495d16-d5f2-466c-a3de-2fc3afc65ecd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

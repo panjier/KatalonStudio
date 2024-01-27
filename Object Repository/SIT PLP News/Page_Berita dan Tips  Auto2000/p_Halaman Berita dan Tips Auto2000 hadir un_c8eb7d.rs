@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Halaman Berita dan Tips Auto2000 hadir un_c8eb7d</name>
+   <tag></tag>
+   <elementGuidId>a95d1871-64ef-4b32-a32b-180f6451fa5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a3e527a0-ef35-49cd-b9ef-56bacdfccb45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-regular text-reliableBlack leading-relaxed lg:max-w-7xl lg:text-base </value>
+      <webElementGuid>c20d9a34-af43-466b-aaab-445151971763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Halaman Berita dan Tips Auto2000 hadir untuk menyediakan AutoFamily dengan informasi terkini, berguna, dan menarik seputar dunia otomotif. Dapatkan informasi seputar mobil, tips berkendara, informasi seputar perjalanan, dan perawatan kendaraan yang selalu diupdate untuk AutoFamily. Tetap terhubung dengan kami untuk bisa mengetahui apa saja yang sedang terjadi dalam dunia otomotif.</value>
+      <webElementGuid>400d0c92-5530-4c90-b655-5fd0f5a2f422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-10 lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]/p[@class=&quot;text-sm font-regular text-reliableBlack leading-relaxed lg:max-w-7xl lg:text-base&quot;]</value>
+      <webElementGuid>dcab635d-aae7-46e4-941b-f88ccdffb894</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[2]/div/p</value>
+      <webElementGuid>c264b5a5-54ad-4e6a-ac86-bb8c46b3176e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/p</value>
+      <webElementGuid>00a8b477-b3f8-48e2-a27c-3005d659b3e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Halaman Berita dan Tips Auto2000 hadir untuk menyediakan AutoFamily dengan informasi terkini, berguna, dan menarik seputar dunia otomotif. Dapatkan informasi seputar mobil, tips berkendara, informasi seputar perjalanan, dan perawatan kendaraan yang selalu diupdate untuk AutoFamily. Tetap terhubung dengan kami untuk bisa mengetahui apa saja yang sedang terjadi dalam dunia otomotif.' or . = 'Halaman Berita dan Tips Auto2000 hadir untuk menyediakan AutoFamily dengan informasi terkini, berguna, dan menarik seputar dunia otomotif. Dapatkan informasi seputar mobil, tips berkendara, informasi seputar perjalanan, dan perawatan kendaraan yang selalu diupdate untuk AutoFamily. Tetap terhubung dengan kami untuk bisa mengetahui apa saja yang sedang terjadi dalam dunia otomotif.')]</value>
+      <webElementGuid>045d7b94-edbd-4d64-89b4-fedac36f5e0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

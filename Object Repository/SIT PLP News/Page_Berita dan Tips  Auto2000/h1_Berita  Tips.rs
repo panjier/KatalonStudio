@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Berita  Tips</name>
+   <tag></tag>
+   <elementGuidId>e2ebdae6-f51d-4dd5-8ad4-12d5ba8bb341</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>29bc05a4-bf2e-4ec7-ab7f-cb2fbdfda54c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-bold uppercase text-reliableBlack lg:text-2xl</value>
+      <webElementGuid>f10aee57-f97d-43e7-81b0-47de265a320c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berita &amp; Tips</value>
+      <webElementGuid>34bfc8d4-cee5-403f-878e-8ed842fc298c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;lg:my-[20px]&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]/div[@class=&quot;container lg:p-0&quot;]/h1[@class=&quot;text-base font-bold uppercase text-reliableBlack lg:text-2xl&quot;]</value>
+      <webElementGuid>7c95df54-abfb-4ce0-a8bd-68b9923480bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/div/h1</value>
+      <webElementGuid>edf2877f-0c6e-42f4-82bd-9a2e9b8bceb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>a520bd06-a83d-4b20-a158-4790b7388256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Berita &amp; Tips' or . = 'Berita &amp; Tips')]</value>
+      <webElementGuid>c2101cc1-6eb1-42a8-b5f5-27c39e3d1f0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PDP Promo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b232c46-5556-422d-a187-deeb62c13eb0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c3d1e1d-d9ba-40bb-9062-21123c7d1740</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23ee78cb-cc34-4b87-a6de-f8203301541e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b250f5d9-47ef-46ab-8994-138b48dbf14f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://sit.auto2000.co.id/promosi'</defaultValue>
+      <description></description>
+      <id>0c3d1e1d-d9ba-40bb-9062-21123c7d1740</id>
+      <masked>false</masked>
+      <name>SIT</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://uat.auto2000.co.id/promosi'</defaultValue>
+      <description></description>
+      <id>23ee78cb-cc34-4b87-a6de-f8203301541e</id>
+      <masked>false</masked>
+      <name>UAT</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://pre.auto2000.co.id/promosi'</defaultValue>
+      <description></description>
+      <id>b250f5d9-47ef-46ab-8994-138b48dbf14f</id>
+      <masked>false</masked>
+      <name>PreProd</name>
+   </variable>
+</TestCaseEntity>

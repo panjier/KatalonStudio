@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Artikel LainnyaLihat semuaMobil dengan _5aa102</name>
+   <tag></tag>
+   <elementGuidId>987455cf-dfc6-47d7-ba54-af6e1bc711cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14a7b3e4-c281-42ca-b61e-999c9a9bc39f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg:container xl:px-0</value>
+      <webElementGuid>8bdf126d-fb6b-49ad-a1b2-b57a61dacd28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Artikel LainnyaLihat semuaMobil dengan Captain Seat yang untuk Dimiliki di Auto20006 Jan 2024TAF bersama Toyota Astra Motor Sapa Forum Wartawan Industri -Duplikat 15 Jan 2024TAF bersama Toyota Astra Motor Sapa Forum Wartawan Industri5 Jan 2024TAF bersama Toyota Astra Motor Sapa Forum Wartawan Industri -Duplikat 25 Jan 2024</value>
+      <webElementGuid>8615212b-36db-4ab4-b1c8-61058286e49a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;lg:container xl:px-0&quot;]</value>
+      <webElementGuid>fcedb5e9-a782-448d-9746-08713ac8db45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[4]</value>
+      <webElementGuid>7e0a783b-37a8-4b7c-a7f6-52bd10a1d3ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[4]</value>
+      <webElementGuid>4d6470fd-f845-464c-90c3-189af400063c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Artikel LainnyaLihat semuaMobil dengan Captain Seat yang untuk Dimiliki di Auto20006 Jan 2024TAF bersama Toyota Astra Motor Sapa Forum Wartawan Industri -Duplikat 15 Jan 2024TAF bersama Toyota Astra Motor Sapa Forum Wartawan Industri5 Jan 2024TAF bersama Toyota Astra Motor Sapa Forum Wartawan Industri -Duplikat 25 Jan 2024' or . = 'Artikel LainnyaLihat semuaMobil dengan Captain Seat yang untuk Dimiliki di Auto20006 Jan 2024TAF bersama Toyota Astra Motor Sapa Forum Wartawan Industri -Duplikat 15 Jan 2024TAF bersama Toyota Astra Motor Sapa Forum Wartawan Industri5 Jan 2024TAF bersama Toyota Astra Motor Sapa Forum Wartawan Industri -Duplikat 25 Jan 2024')]</value>
+      <webElementGuid>699a9343-14b1-47d2-9c74-7c2cbd3382b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lihat semua</name>
+   <tag></tag>
+   <elementGuidId>cd14e922-84c3-424c-96c4-5bff1ccc44ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[4]/div/section/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7484801e-f253-415d-9c39-3dfcef79d907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-2 lg:gap-4</value>
+      <webElementGuid>04985d4b-0c39-421f-bb29-ecb436b2da70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat semua</value>
+      <webElementGuid>6f73e846-7501-4a74-ae95-ce7375ae6eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[4]/div[@class=&quot;container xl:px-0&quot;]/section[@class=&quot;my-[30px] lg:my-16&quot;]/div[@class=&quot;flex items-center justify-between mb-4 lg:mb-6&quot;]/a[@class=&quot;bg-transparent text-reliableBlack text-[12px] font-semibold uppercase lg:text-base lg:font-medium&quot;]/span[@class=&quot;flex items-center gap-2 lg:gap-4&quot;]</value>
+      <webElementGuid>3b948014-fe22-440f-ba64-a8e4f3b4e9f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[4]/div/section/div/a/span</value>
+      <webElementGuid>6ecebe79-08ca-4d01-bee1-16975d89a207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>258b080e-ab48-4280-8df8-e2aa1d366914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lihat semua' or . = 'Lihat semua')]</value>
+      <webElementGuid>d715c2cc-c6fb-4a92-9d65-66253e30aec5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

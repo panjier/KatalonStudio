@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Promo Terkait</name>
+   <tag></tag>
+   <elementGuidId>708d36b8-53c2-4dfd-a409-0cb3495013c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[3]/section/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>057c2136-2edf-4be5-8f22-f717ad14cb4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-bold uppercase text-reliableBlack lg:text-2xl</value>
+      <webElementGuid>770db134-255c-402c-9d3a-039a2334f439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Promo Terkait</value>
+      <webElementGuid>e94656ae-9ef0-4bde-8464-4b5242d0f189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;lg:container&quot;]/section[@class=&quot;my-4 mt-2 md:mt-8 lg:my-16&quot;]/div[@class=&quot;container lg:p-0&quot;]/div[@class=&quot;flex items-center justify-between mb-1 lg:mb-6&quot;]/p[@class=&quot;text-base font-bold uppercase text-reliableBlack lg:text-2xl&quot;]</value>
+      <webElementGuid>52fcd440-b883-425a-8483-57d2f4b2613b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[3]/section/div/div/p</value>
+      <webElementGuid>4798e9a9-bf77-4b38-8457-056f2dc78968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/p</value>
+      <webElementGuid>0b2f44ec-c5cd-484c-b01e-17b5b86fecd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Promo Terkait' or . = 'Promo Terkait')]</value>
+      <webElementGuid>b2481591-e856-4c40-a247-7c0de552e16c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

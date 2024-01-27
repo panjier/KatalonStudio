@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_DKI Jakarta</name>
+   <tag></tag>
+   <elementGuidId>ecf40724-3c8c-46d5-8cd0-3c40d7aec833</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='dd-form-dki-jakarta
+              ']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e37543f0-d398-4158-8dc8-06d8e9cc7bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dd-form-dki-jakarta
+              </value>
+      <webElementGuid>2a50694e-2243-49dd-bd47-75f0c53e75c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-2 hover:bg-gray-100 cursor-pointer</value>
+      <webElementGuid>7226d37d-f1b6-401e-be94-86355d7b03d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DKI Jakarta</value>
+      <webElementGuid>4ea2f24b-fc72-4b51-8d5e-34ab256c56e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dd-form-dki-jakarta
+              &quot;)</value>
+      <webElementGuid>27af1418-b9d2-41c0-8a9c-f6181b498f17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='dd-form-dki-jakarta
+              ']</value>
+      <webElementGuid>22490fe5-0a86-410c-971b-c9b218e7e6f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[3]/div/div/div[2]/section/form/div[2]/div/ul/li[4]</value>
+      <webElementGuid>b11000f1-c474-43a8-b117-68510a733218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[4]</value>
+      <webElementGuid>c5186201-2b93-4a1d-8a03-5ec43ea5153d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'dd-form-dki-jakarta
+              ' and (text() = 'DKI Jakarta' or . = 'DKI Jakarta')]</value>
+      <webElementGuid>2accf1fd-3419-4d39-a79e-fcdb2c23d54e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

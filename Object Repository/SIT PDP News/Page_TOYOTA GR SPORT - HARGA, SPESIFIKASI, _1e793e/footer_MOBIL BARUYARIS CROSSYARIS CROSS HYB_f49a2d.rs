@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>footer_MOBIL BARUYARIS CROSSYARIS CROSS HYB_f49a2d</name>
+   <tag></tag>
+   <elementGuidId>76d1ea3e-3538-4cdd-9c41-443d4fa36e5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/footer</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>footer</value>
+      <webElementGuid>d756bc15-8f0f-4879-8c56-8e83e2b4a51a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-[#2C2B2B] md:bg-reliableBlack</value>
+      <webElementGuid>7825adfa-a493-476a-9db3-695767adf4c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MOBIL BARUYARIS CROSSYARIS CROSS HYBRIDCAMRY HYBRIDHILUX SINGLE CABINHILUX DOUBLE CABININNOVA HYBRIDAGYA GR SPORTMOBIL BEKASPURNA JUALAKSESORISKUPON SERVISLAYANAN BENGKELLAYANAN HOME SERVICEBODI &amp; CATTRADE - INTENTANG AUTO2000PROMOBERITA &amp; TIPSPENCAPAIANAKUN SAYADEALER TOYOTAFAQHUBUNGI KAMISYARAT &amp; KETENTUANKEBIJAKAN PRIVASIREVIEW PRODUKSubscribeIKUTI KAMIFacebookInstagramYoutubeXWhatsappTiktokGUNAKAN APLIKASI DIGIROOMEmergency Road Assistance 1500 898© 2024 AUTO2000 | Hak cipta dilindungi</value>
+      <webElementGuid>1fb586f4-a113-4697-9868-28c3935b2f08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/footer[@class=&quot;bg-[#2C2B2B] md:bg-reliableBlack&quot;]</value>
+      <webElementGuid>485276bf-b766-4948-8890-ab6c4d796844</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/footer</value>
+      <webElementGuid>0e22f810-4616-4e09-be0a-f15d6f90ad1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer</value>
+      <webElementGuid>d86b926f-10da-4b2f-b7f2-fc570a3729bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//footer[(text() = 'MOBIL BARUYARIS CROSSYARIS CROSS HYBRIDCAMRY HYBRIDHILUX SINGLE CABINHILUX DOUBLE CABININNOVA HYBRIDAGYA GR SPORTMOBIL BEKASPURNA JUALAKSESORISKUPON SERVISLAYANAN BENGKELLAYANAN HOME SERVICEBODI &amp; CATTRADE - INTENTANG AUTO2000PROMOBERITA &amp; TIPSPENCAPAIANAKUN SAYADEALER TOYOTAFAQHUBUNGI KAMISYARAT &amp; KETENTUANKEBIJAKAN PRIVASIREVIEW PRODUKSubscribeIKUTI KAMIFacebookInstagramYoutubeXWhatsappTiktokGUNAKAN APLIKASI DIGIROOMEmergency Road Assistance 1500 898© 2024 AUTO2000 | Hak cipta dilindungi' or . = 'MOBIL BARUYARIS CROSSYARIS CROSS HYBRIDCAMRY HYBRIDHILUX SINGLE CABINHILUX DOUBLE CABININNOVA HYBRIDAGYA GR SPORTMOBIL BEKASPURNA JUALAKSESORISKUPON SERVISLAYANAN BENGKELLAYANAN HOME SERVICEBODI &amp; CATTRADE - INTENTANG AUTO2000PROMOBERITA &amp; TIPSPENCAPAIANAKUN SAYADEALER TOYOTAFAQHUBUNGI KAMISYARAT &amp; KETENTUANKEBIJAKAN PRIVASIREVIEW PRODUKSubscribeIKUTI KAMIFacebookInstagramYoutubeXWhatsappTiktokGUNAKAN APLIKASI DIGIROOMEmergency Road Assistance 1500 898© 2024 AUTO2000 | Hak cipta dilindungi')]</value>
+      <webElementGuid>0b50d9e7-fe70-4206-a127-8fa9bcae5aff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Berita Tips Cover Nasional</name>
+   <tag></tag>
+   <elementGuidId>04c1b754-4189-4610-8157-91a0bedd16bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='hero-banner-news']/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1446e202-d593-4cdf-aa89-82ff225d00eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-semibold text-reliableBlack line-clamp-3 mb-1 lg:text-[28px] leading-[48px] lg:font-bold</value>
+      <webElementGuid>0901b897-f6e1-4d84-99c3-44135f8fb140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berita Tips Cover Nasional</value>
+      <webElementGuid>c7511315-8bb3-44ec-be03-1246591d6393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hero-banner-news&quot;)/div[@class=&quot;pt-2 px-4 pb-4 lg:pt-8 lg:px-6 lg:pb-6&quot;]/p[@class=&quot;text-sm font-semibold text-reliableBlack line-clamp-3 mb-1 lg:text-[28px] leading-[48px] lg:font-bold&quot;]</value>
+      <webElementGuid>5bfd6efd-3f5e-4a4a-a258-57b03a0cd76c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='hero-banner-news']/div[2]/p</value>
+      <webElementGuid>9cda3f8f-c773-4e27-a6ef-b3a829ff0bf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>411edd41-de4b-4195-a010-f084137f3ec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Berita Tips Cover Nasional' or . = 'Berita Tips Cover Nasional')]</value>
+      <webElementGuid>27ea18af-4917-4a1d-97b2-eb3d6771ac16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

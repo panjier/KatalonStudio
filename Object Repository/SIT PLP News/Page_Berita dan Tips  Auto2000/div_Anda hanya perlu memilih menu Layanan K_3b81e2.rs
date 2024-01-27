@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Anda hanya perlu memilih menu Layanan K_3b81e2</name>
+   <tag></tag>
+   <elementGuidId>c0429e24-ca1d-413d-a15e-ca6d012fe080</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[3]/div/button/details/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.prose.max-w-none</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a2df3b35-95a8-49a7-b4af-636c062c4a57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prose max-w-none</value>
+      <webElementGuid>c258fced-b735-4ae2-81de-2b7f61f2b1d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anda hanya perlu memilih menu Layanan Kami, THS – Auto2000 Home Service, klik icon Book Now untuk mengisi formulir dan layanan THS akan langsung datang ketempat anda.</value>
+      <webElementGuid>66270860-63d7-4d55-84e7-5e2a7f3a72d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-10 lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]/button[@class=&quot;block w-full border-b border-reliableBlack10&quot;]/details[@class=&quot;py-[18px] lg:px-5&quot;]/div[@class=&quot;text-start text-sm font-normal text-reliableBlack leading-relaxed lg:text-base lg:leading-relaxed&quot;]/div[@class=&quot;answer-0&quot;]/div[@class=&quot;prose max-w-none&quot;]</value>
+      <webElementGuid>b9081082-8023-4f1d-b164-79c47882e0a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[3]/div/button/details/div/div/div</value>
+      <webElementGuid>732a12bb-040e-4f16-9e74-540fb47084ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details/div/div/div</value>
+      <webElementGuid>2f67b999-3e88-4f5f-b2fb-1c161bdf1957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Anda hanya perlu memilih menu Layanan Kami, THS – Auto2000 Home Service, klik icon Book Now untuk mengisi formulir dan layanan THS akan langsung datang ketempat anda.' or . = 'Anda hanya perlu memilih menu Layanan Kami, THS – Auto2000 Home Service, klik icon Book Now untuk mengisi formulir dan layanan THS akan langsung datang ketempat anda.')]</value>
+      <webElementGuid>94cc6f46-d927-4843-9bc4-8a552810bbac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
